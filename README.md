@@ -132,6 +132,25 @@ attempt to circumvent the rules.
 ![Unstructured data analysis - Image duplication](https://github.com/user-attachments/assets/c4704a7f-5b3c-439c-ad0b-1e66644bf701)
 
 
+Integration & API: Developed and integrated RESTful APIs using FlaskAPI.
+
+Input: Solution requires images to upload or path of images, to identify duplicate images. Solution can be used 
+sanitize/remove duplicate images a given category.
+
+<img width="1025" height="1371" alt="image" src="https://github.com/user-attachments/assets/fd1dd36b-84df-4410-a1bb-4c8200b0ea39" />
+
+<img width="890" height="1306" alt="image" src="https://github.com/user-attachments/assets/584450c0-db0a-44d1-bb16-a6157dbe26f7" />
+
+<img width="897" height="268" alt="image" src="https://github.com/user-attachments/assets/0c1101ad-2575-4a08-8f00-f263babfa618" />
+
+
+
+
+
+
+
+
+
 
 
 
